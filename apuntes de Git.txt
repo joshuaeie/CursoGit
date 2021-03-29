@@ -1,0 +1,4 @@
+Apuntes de Git
+git init: iniciar el proyecto. 
+git add: seguimiento de un archivo
+git commit: trasladar los archivos del área de ensayo al repositorio local.
